@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ubuntu/Documents/SL_pengrui/1/CMake_Practice/src/hello.cpp
+hello.h
+/home/ubuntu/Documents/SL_pengrui/1/CMake_Practice/src/hello.h
+iostream
+-
+
+/home/ubuntu/Documents/SL_pengrui/1/CMake_Practice/src/hello.h
+
