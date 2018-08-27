@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++11   CMakeFiles/GN-BA.dir/GN-BA.cpp.o  -o GN-BA -rdynamic /home/ubuntu/Documents/PL/slam/slambook/3rdparty/Sophus/build/libSophus.so -Wl,-rpath,/home/ubuntu/Documents/PL/slam/slambook/3rdparty/Sophus/build 

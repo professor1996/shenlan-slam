@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++11   CMakeFiles/E2Rt.dir/E2Rt.cpp.o  -o E2Rt -rdynamic /home/ubuntu/Documents/PL/slam/slambook/3rdparty/Sophus/build/libSophus.so -Wl,-rpath,/home/ubuntu/Documents/PL/slam/slambook/3rdparty/Sophus/build 

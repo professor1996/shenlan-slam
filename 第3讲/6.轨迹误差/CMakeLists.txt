@@ -1,0 +1,17 @@
+cmake_minimum_required(VERSION 2.8 ) 
+
+project(Calc_trajectory_error)
+
+set(CMAKE_CXX_FLAGS "-std=c++11")
+
+include_directories( "/usr/include/eigen3" )
+
+find_package( Sophus  )
+include_directories( ${Sophus_INCLUDE_DIRS} )
+
+find_package( Pangolin )
+include_directories( ${Pangolin_INCLUDE_DIRS} )
+
+add_executable( calc_trajectory_error calc_trajectory_error.cpp )
+target_link_libraries( calc_trajectory_error ${Sophus_LIBRARIES} )
+target_link_libraries( calc_trajectory_error ${Pangolin_LIBRARIES} ) 

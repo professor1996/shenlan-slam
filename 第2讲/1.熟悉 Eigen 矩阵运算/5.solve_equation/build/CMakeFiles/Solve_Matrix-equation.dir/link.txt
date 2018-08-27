@@ -1,0 +1,1 @@
+/usr/bin/c++   -O3 -O3 -DNDEBUG   CMakeFiles/Solve_Matrix-equation.dir/Matrix_equation.cpp.o  -o Solve_Matrix-equation -rdynamic 

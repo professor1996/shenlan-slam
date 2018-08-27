@@ -1,0 +1,3 @@
+/home/ubuntu/Documents/SL_pengrui/2/solve_equation/build/CMakeFiles/edit_cache.dir
+/home/ubuntu/Documents/SL_pengrui/2/solve_equation/build/CMakeFiles/rebuild_cache.dir
+/home/ubuntu/Documents/SL_pengrui/2/solve_equation/build/CMakeFiles/Solve_Matrix-equation.dir
